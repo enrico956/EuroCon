@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+**/__pycache__
+**/.DS_Store
+**/.ipynb_checkpoints
+.vscode
+wandb
